@@ -65,4 +65,5 @@ var TodoComponent = React.createClass({
 
 });
 
+// put component into HTML page
 ReactDOM.render(<App />, document.getElementById('todo-wrapper'));
